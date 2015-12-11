@@ -87,7 +87,24 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+#wrapper {
+  background-color:#ffffff;
+  width: 960px;
+ }
 
+#logo {
+ font-family: Arial, sans-serif;
+ font-size: 40px;
+ color: black;
+ float: left;
+}
+#menu {
+ clear: both;
+ color: #000000;
+ float: left;
+
+}
+ 
 
 
 
